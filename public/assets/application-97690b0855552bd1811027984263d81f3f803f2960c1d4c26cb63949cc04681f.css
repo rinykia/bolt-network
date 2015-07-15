@@ -10,9 +10,10 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
- *= require_tree .
- *= require_self
+
+
  */
+
 html, body {
   background-image:url(http://s3.amazonaws.com/codecademy-content/projects/bolt-network/diagmonds_@2X.png);
   background-size:141px 142px;  
